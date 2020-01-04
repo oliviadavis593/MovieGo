@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## App description :movie_camera:
+
+An application that able to search for movies via the OMDB API and renders the results to users. 
+
+## Goal when creating application :key:
+
+To improve React skills using the realtively new Hooks API
+The project makes use of React components, many hooks, an external API, and styling via CSS
+
 ## Available Scripts
 
 In the project directory, you can run:
